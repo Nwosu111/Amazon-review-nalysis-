@@ -18,7 +18,7 @@ Key Findings:
 
 Files in this project:  
 - Amazon_Review_Analysis_Dashboard.xlsx  
-- This summary file
+- Summary file
 
 What I Learned:  
 This project helped me improve my Excel analysis skills and understand how data can be used to make better product and marketing decisions.
