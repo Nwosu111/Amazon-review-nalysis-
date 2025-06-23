@@ -1,4 +1,4 @@
-# Amazon-review-nalysis-
+# Amazon-review-analysis-
   Capstone project analyzing Amazon product review data using Excel
 Amazon Product Review Analysis – Capstone Project  
 By: Chidinma Victoria Nwosu
